@@ -13,3 +13,10 @@ Tein tehtävät 1-4. Neljäs tehtävä haastoi toimintojen järjestyksen suhteen
 
 ## Moduuli 4
 Tein tehtävät 1-5. Bonustehtävä menee yli hilseen, kokeilen ehkä myöhemmin.
+
+
+## Moduuli 5
+Tein tehtävät 1-4. Oli vaikeuksia ymmärtää 2-tehtävän sortin käyttöä.
+
+# Kertaustehtävät
+Tein tehtävät 1-9.
