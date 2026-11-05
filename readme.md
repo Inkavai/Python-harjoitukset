@@ -20,3 +20,6 @@ Tein tehtävät 1-4. Oli vaikeuksia ymmärtää 2-tehtävän sortin käyttöä.
 
 # Kertaustehtävät
 Tein tehtävät 1-9.
+
+# Moduuli 6
+Tein tehtävät 1-6.
