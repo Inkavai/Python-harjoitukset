@@ -23,3 +23,9 @@ Tein tehtävät 1-9.
 
 # Moduuli 6
 Tein tehtävät 1-6.
+
+# Moduuli 7
+Tein tehtävät 1-3. Vähän epätoivoselta tuntuu kaiken muistaminen ja ymmärtäminen.
+
+# Kertaustehtävät 2
+Tein tehtävät 1-6.
